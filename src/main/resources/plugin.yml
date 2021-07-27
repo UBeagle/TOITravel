@@ -1,0 +1,6 @@
+name: TOITravel
+version: ${project.version}
+main: me.beagle.toitravel.TOITravel
+api-version: 1.17
+authors: [ UBeagle ]
+description: Tales of Imperia Travel Plugin
